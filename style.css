@@ -550,7 +550,7 @@ margin-top: 20px;
         }
         .footer .box-container .box img{
             object-fit: cover;
-            width: 399px;
+            width:400px;
             height: 360px;
             margin-left: -100px;
             margin-bottom: -6px;
@@ -1214,7 +1214,7 @@ margin-top: 10px;
 
 .footer .box-container .box a {
     display: block;
-    font-size: 11px;
+    font-size: 10px;
     color: #161515;
     padding: .4rem;
     border: none;
